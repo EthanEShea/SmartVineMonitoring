@@ -3,6 +3,8 @@
 ## Goal of this Project:
 Develop a YOLO-Based AI model that can detect diseased/unhealthy vine leaves in the Iron Horse Vineyards    
 
+Link to the Google Drive containing all datasets used, results from k_fold, and the best.pt files for each model. [Google Drive](https://drive.google.com/drive/folders/1rhbNi8iAbascdg9LNWpLKK0kvx1o8cHv?usp=sharing)
+
 ---
 
 ## Extracting Close up Images of Leaves From 360 degree Video:   
